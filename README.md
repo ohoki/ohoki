@@ -58,8 +58,12 @@
 <h3 align="left">📈 my github stats</h3>
 
 <p align="left">
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ohoki&show_icons=true&locale=en" alt="ohoki" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohoki&show_icons=true&theme=dark&locale=en&layout=compact" alt="ohoki" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohoki&show_icons=true&locale=en&layout=compact" alt="ohoki" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ohoki&show_icons=true&theme=dark&locale=en" alt="ohoki" />
 </p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohoki&theme=dark" alt="ohoki" />
+</p>
+
