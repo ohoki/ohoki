@@ -55,6 +55,10 @@
   </a> 
 </p>
 
+<h3 align="left">🏅 Baekjoon solved rank</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dudgh6237)](https://solved.ac/dudgh6237)
+
 <h3 align="left">📈 my github stats</h3>
 
 <p align="left">
